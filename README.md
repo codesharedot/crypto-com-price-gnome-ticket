@@ -1,5 +1,8 @@
-# crypto-com price gnome ticket 
+# crypto-com gnome price ticker
 
-Gnome 3 desktop ticker for crypto-com price with Python and argos. Rename to crypto-com.1r.60s.py and put in ~/.config/argos
+Get crypto-com price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/crypto-com-price-gnome-ticket/](https://codesharedot.github.io/crypto-com-price-gnome-ticket/)
 
-https://pythonbasics.org
+crypto-com price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to crypto-com.1r60s.py and put in ~/.config/argos
